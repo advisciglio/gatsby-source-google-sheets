@@ -43,5 +43,8 @@
     "prettier": {
         "printWidth": 100,
         "parser": "flow"
+    },
+    "peerDependencies": {
+        "gatsby": "^3.0.0"
     }
 }
